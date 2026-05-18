@@ -1,2 +1,3 @@
-# Learning-repo
+# DEMO-REPO
+
 DEMO REPO FOR AI JOURNEY.
